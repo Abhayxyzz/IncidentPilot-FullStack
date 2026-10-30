@@ -14,7 +14,7 @@ When a service breaks, IncidentPilot reads the logs and metrics, finds the likel
 
 | | Link |
 |---|---|
-| Dashboard | https://incidentpilot-dashboard-7z8wn8rdp-abhayxyzz.vercel.app |
+| Dashboard | https://incidentpilot-dashboard.vercel.app/ |
 | Backend API | https://incidentpilot-56op.onrender.com (interactive docs at `/docs`) |
 | Demo video | ADD-VIDEO-LINK |
 
