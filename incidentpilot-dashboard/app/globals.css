@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+body { @apply bg-bg font-sans text-ink antialiased; }
+button:focus-visible { @apply outline outline-2 outline-offset-2 outline-info; }
