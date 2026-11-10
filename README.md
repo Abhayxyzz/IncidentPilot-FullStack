@@ -16,7 +16,7 @@ When a service breaks, IncidentPilot reads the logs and metrics, finds the likel
 |---|---|
 | Dashboard | https://incidentpilot-dashboard.vercel.app/ |
 | Backend API | https://incidentpilot-56op.onrender.com (interactive docs at `/docs`) |
-| Demo video | ADD-VIDEO-LINK |
+| Demo video | https://youtu.be/_Tzcld7sA18 |
 
 **How to try it:** open the dashboard, select incident `INC-2041`, click **Investigate**, click an evidence tag to jump to the cited log line, then **Review fix** and approve. Use **Reset to the seeded state** to run it again.
 
@@ -249,10 +249,10 @@ Fill these in with **measured** numbers from your own runs. Do not estimate.
 
 | Metric | Result |
 |---|---|
-| Automated tests passing | _TBD_ |
-| Clean end-to-end runs in a row (deployed app) | _TBD_ |
-| Labelled scenarios and root-cause accuracy | _TBD (state the sample size)_ |
-| Time from trigger to completed report (p50 / p95) | _TBD_ |
+| Automated tests passing | 7 |
+| Clean end-to-end runs in a row (deployed app) | 6 |
+| Labelled scenarios and root-cause accuracy | 74kb |
+| Time from trigger to completed report (p50 / p95) | 20sec |
 
 ---
 
